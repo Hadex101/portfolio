@@ -55,7 +55,7 @@ const profile = {
 
 // ===== Certificates =====
 const certificates = [
-  { provider: "AltSchool Africa", title: "Data Science Certificate", year: "2024", file: "/AltSchool.pdf" },
+  { provider: "AltSchool Africa", title: "Data Science Certificate", year: "2024", file: "/altSchool.pdf" },
   { provider: "Edureka", title: "Machine Learning Certification", year: "2023", file: "/E1.pdf" },
   { provider: "Edureka", title: "Data Engineering with AWS", year: "2023", file: "/E2.pdf" },
   { provider: "Edureka", title: "Deep Learning with TensorFlow", year: "2022", file: "/E3.pdf" },
